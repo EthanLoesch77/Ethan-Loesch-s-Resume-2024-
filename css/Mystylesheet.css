@@ -1,0 +1,31 @@
+    body {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+   }
+   h1 {
+    text-align: center;
+    color: black;}
+    h3 {
+    text-align: center;
+   }
+
+   #square {
+    width: 1300px;
+    height: 67px;
+    background-color:rgba(60, 60, 178, 0.733);
+   }
+   .info{
+    font-size: large;
+    text-indent: 25px;
+   }
+   .main-image h2 {
+    position: relative;
+   }
+   h4 {
+    padding-top: 25px;
+    color: black;
+    font-size: large;
+   }
+   h5 {
+ text-align: center;
+   }
